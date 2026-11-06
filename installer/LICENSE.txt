@@ -1,0 +1,37 @@
+NULL POINT AUDIO - END USER LICENSE AGREEMENT
+NP Vocal Suite (NP-Verb, NP-EQ, NP-Comp, NP-DeEss, NP-Limit, NP-Gate, NP-Zero)
+
+IMPORTANT - READ CAREFULLY. By installing or using this software you agree to
+the terms below. If you do not agree, do not install the software.
+
+1. LICENSE GRANT
+   Null Point Audio grants you a personal, non-exclusive, non-transferable
+   license to install and use the software on computers that you own or
+   control, for the purpose of producing audio.
+
+2. RESTRICTIONS
+   You may not sell, rent, lease, sublicense, redistribute, reverse engineer,
+   decompile or disassemble the software, or remove any proprietary notices.
+
+3. OWNERSHIP
+   The software is licensed, not sold. Null Point Audio retains all rights,
+   title and interest in the software.
+
+4. AUDIO YOU CREATE
+   You own the audio you produce with the software and may use it for any
+   purpose, commercial or otherwise.
+
+5. NO WARRANTY
+   The software is provided "AS IS" without warranty of any kind. Null Point
+   Audio is not liable for any damages arising from the use of this software.
+
+6. UPDATES
+   Null Point Audio may provide updates at its discretion. This license covers
+   updates unless a new license accompanies them.
+
+7. TERMINATION
+   This license terminates automatically if you breach any term. On
+   termination you must uninstall and destroy all copies of the software.
+
+(c) 2026 Null Point Audio. All rights reserved.
+www.nullpointaudio.com
