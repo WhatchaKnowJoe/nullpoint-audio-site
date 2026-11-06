@@ -7,4 +7,4 @@ Website and release hosting for the NP Vocal Suite (NP-Zero, NP-Gate, NP-DeEss, 
 - `installer/` — NSIS script + license for the Windows installer.
 - `thumbnails/` — plugin UI renders, dark and light.
 
-The installer `.exe` is published as a GitHub Release asset; the site's download button links to the latest release.
+The installer `.exe` lives in `public/downloads/` and is served by Vercel; the site's download button links to it.
